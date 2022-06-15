@@ -5,5 +5,3 @@ do
    (( sum += line ))
 done < total
 echo $sum
-
-done done
